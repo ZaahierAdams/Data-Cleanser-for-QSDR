@@ -35,6 +35,20 @@ pyinstaller --onefile -w --icon=Image_files\Icon0.ico main.py --version-file fil
 ## How to use
 A detailed guide on how to use this application can be found [here](Documents/User_Guide.pdf)
 
+### In summary 
+- Run the application
+- Select QSDR file(s) 
+- Initiate the data cleaning process
+- Wait for completion 
+
+The application will produce detailed quantitative reports on fixes: 
+
+<img alt="ResultsImage" src="https://i.imgur.com/CQXByHg.png" width="50%"></img>
+
+Included in the repository are 
+- test input data in `/Input Files`
+- test baseline data in  `/DB`   
+
 
 ## Contact
 Zaahier Adams – ZaahierAdams2021@gmail.com
