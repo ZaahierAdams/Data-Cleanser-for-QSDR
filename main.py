@@ -14,7 +14,7 @@ Last updated:       29/02/2020
 
 [About]
 
-This is a data scrubber for PSETA NSD QSDR xlsx Workbooks. 
+This is a data scrubber for QSDR xlsx Workbooks. 
 It provides an intuitive interface which enables the user to interact with the application.
 Moreover, the application creates and saves reports on errors resolved as well 
 as residual unresolved issues.
